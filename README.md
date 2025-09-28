@@ -4,7 +4,11 @@
 
 ## 📂 프로젝트 구조
 ```
-/ ├──  notebooks/ │   └── customer_segmentation_rfm.ipynb  # 분석 과정을 담은 주피터 노트북 ├── data/ │   └── customer_data.csv                # 원본 데이터 └── README.md                            # 프로젝트 요약
+├──  notebooks/
+│   └── customer_segmentation_rfm.ipynb  # 분석 과정을 담은 주피터 노트북
+├── data/
+│   └── customer_data.csv                # 원본 데이터
+└── README.md                            # 프로젝트 요약
 ```
 
 ## 🎯 분석 목표
